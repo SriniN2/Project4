@@ -10,7 +10,8 @@ public class Panjayathu {
 		System.out.println("vel");
 		System.out.println("kambu");
 		System.out.println("no violence");
-		System.out.println("avan vandha na ilaa nu solliru");
+		System.out.println("avan vandhana naa ilaa nu solliru");
+		System.out.println("yavan vanthazhlum vaetuvan ");
 		
 	}
 }
