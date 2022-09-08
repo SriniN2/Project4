@@ -7,6 +7,8 @@ public class Panjayathu {
 		System.out.println("Vettu");
 		System.out.println("Aruvaa");
 		System.out.println("Sandaaa");
+		System.out.println("vel");
+		System.out.println("kambu");
 		
 	}
 }
